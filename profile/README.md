@@ -17,8 +17,6 @@
 &nbsp; &nbsp;
 <a href="https://github.com/psYshiX-07" target="_blank"><img src="https://github.com/Studio-17/.github/blob/master/.assets/maxime.png" width="40"></a>
 
-<br>
-
 ---
 
 <div align="center">
