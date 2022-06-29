@@ -1,5 +1,3 @@
-# Studio17
-
 ## The Studio17 is a private group who work for public projects to have a better school life
 
 <br>
