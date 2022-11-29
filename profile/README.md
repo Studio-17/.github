@@ -1,4 +1,4 @@
-## The Studio17 is a private group who work for public projects to have a better school life
+## The Studio17 is a private group of Epitech student's who work for public projects to have a better school life
 
 <br>
 
