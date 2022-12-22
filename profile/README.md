@@ -1,7 +1,7 @@
 ## The Studio 17 is a private group of Epitech student's
 
 <details>
-    <summary> Members: ⬇️ </summary>
+    <summary> Click to see the Members: ⬇️ </summary>
 
 | :medal_sports: | :medal_sports: | :medal_sports: | :medal_sports: | :medal_sports: | :medal_sports: |
 |:---:|:---:|:---:|:---:|:---:|:---:|
