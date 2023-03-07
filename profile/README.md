@@ -1,4 +1,4 @@
-## Welcome, here you will find all the best projects the Studio17 has done !
+## Welcome, here you will find all the best projects the Studio17 has done during Epitech !
 
 <br>
 
