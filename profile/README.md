@@ -1,4 +1,4 @@
-## Welcome, here you will find all the best projects that Studio17 has done !
+## Welcome, here you will find all the best projects the Studio17 has done !
 
 <br>
 
