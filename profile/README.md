@@ -4,6 +4,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="https://github.com/Studio-17/.github/blob/master/.assets/image.svg" width="300"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="https://github.com/Studio-17/.github/blob/master/.assets/welcome.svg" width="300"></a>
 
 </div>
